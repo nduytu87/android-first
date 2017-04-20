@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tund/.android/build-cache/f1286e551829169b49cd49a6418fe22b859e6d0f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8da8ed7207aee3c92e1654f85d402cc11b2af86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ae172c15c8bea8562842d4630c90eaa74b94a5a">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b2e6b732b9409a4c29c822b2b9703acad959964f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/.android/build-cache/a54402dcc3277371c07b25fd407d5e83787c468d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_478314ce8c6fc0185ab5c0487f12e061b0bcc71d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/.android/build-cache/8268de6355cadfb604f42f26cead49fbd1f3066f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e73814db9e66fced4b7fccfe2acfccd1068d0b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/.android/build-cache/0c033307857066f53ec937e69e182e57a89118a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4148e9e88cb9bffc4a6d61a02748be14ded3344/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/.android/build-cache/688795e400e88a4230011c6848962dde1974d62f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51450fcec7fb1e097d99ca4c1e6a0c55703f2ef3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/.android/build-cache/99d91a433af767d56536f79e1559e44c3d3292d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c72e7b7e07e0a269c7fdf6442776817c39eb6b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fbc0395357629ff789b31f81e2878ac8f518c0b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/.android/build-cache/9dc7d232987e4a520bca7f3eef0e83f05ae371ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8dd542761d68613c931a6e4e66a1004c1b50d463/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/.android/build-cache/36dabcef824cf81f2d14fd12e0fcd68d8f9ef1df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfc0eb2c11d27cfec65bf6526e1ad97012a17ef1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/.android/build-cache/e2495cb556e5cd9ad2fbb500d404bc02e34693b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efdd897b1af3c523963f1302a478645dd5774d8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/.android/build-cache/f1c80dc59e2a1c94363d916de153b61b7536a9dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bd4489b0d066bfe1869218aab84c65b7d6d17d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/.android/build-cache/9b26a8e756779471abdb1fd757f22d01843bd336/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_187ac2cd455a2d29c1b423e4fbc4da1c515aeb89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/.android/build-cache/91d8ded03b4a22b68172a171393e46a7575290bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0cc5314dea5e3f53da83a3e7cf37795a280a682f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/.android/build-cache/ea9ed9058102b16c1734cfbd4ee98a317c13bb06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5aa77a65c912d6c885d2a659779a93c90ea4a940/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_4e667c11230ad25742adc1b79954c52f958b65da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/.android/build-cache/01b2349bdb887417bf088efd59562b95735cd77d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10bcf5b723894d1856846e26a24539314d2576b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tund/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/tund/Dev/Android/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_f885872af9a3be6c113c607827e1734dad7b3660/classes.dex" />
+    </item>
+
+</items>
